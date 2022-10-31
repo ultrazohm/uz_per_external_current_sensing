@@ -1,0 +1,107 @@
+# Created by Ultra Librarian Gold 8.3.307 Copyright © 1999-2021
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "CAS 25-NP/SP2_LEM")
+Pad (Name "3") (Location 0, 0) (HoleSize 51) (Surface False) (Rotation 0) (ExpandMask 0)
+PadShape (Size 100, 75) (Shape Rounded) (Layer Top)
+PadShape (Size 100, 75) (Shape Rounded) (Layer Bottom)
+PadShape (Size 100, 75) (Shape Rounded) (Layer MidLayer)
+EndPad
+Pad (Name "4") (Location 0, -100) (HoleSize 51) (Surface False) (Rotation 0) (ExpandMask 0)
+PadShape (Size 100, 75) (Shape Rounded) (Layer Top)
+PadShape (Size 100, 75) (Shape Rounded) (Layer Bottom)
+PadShape (Size 100, 75) (Shape Rounded) (Layer MidLayer)
+EndPad
+Pad (Name "5") (Location 0, -200) (HoleSize 51) (Surface False) (Rotation 0) (ExpandMask 0)
+PadShape (Size 100, 75) (Shape Rounded) (Layer Top)
+PadShape (Size 100, 75) (Shape Rounded) (Layer Bottom)
+PadShape (Size 100, 75) (Shape Rounded) (Layer MidLayer)
+EndPad
+Pad (Name "8") (Location -500, 0) (HoleSize 51) (Surface False) (Rotation 0) (ExpandMask 0)
+PadShape (Size 100, 75) (Shape Rounded) (Layer Top)
+PadShape (Size 100, 75) (Shape Rounded) (Layer Bottom)
+PadShape (Size 100, 75) (Shape Rounded) (Layer MidLayer)
+EndPad
+Pad (Name "7") (Location -500, -100) (HoleSize 51) (Surface False) (Rotation 0) (ExpandMask 0)
+PadShape (Size 100, 75) (Shape Rounded) (Layer Top)
+PadShape (Size 100, 75) (Shape Rounded) (Layer Bottom)
+PadShape (Size 100, 75) (Shape Rounded) (Layer MidLayer)
+EndPad
+Pad (Name "6") (Location -500, -200) (HoleSize 51) (Surface False) (Rotation 0) (ExpandMask 0)
+PadShape (Size 100, 75) (Shape Rounded) (Layer Top)
+PadShape (Size 100, 75) (Shape Rounded) (Layer Bottom)
+PadShape (Size 100, 75) (Shape Rounded) (Layer MidLayer)
+EndPad
+Pad (Name "11") (Location -350, 500.3937) (HoleSize 32) (Surface False) (Rotation 0)
+PadShape (Size 51, 91) (Shape Rounded) (Layer Top)
+PadShape (Size 51, 91) (Shape Rounded) (Layer Bottom)
+PadShape (Size 51, 91) (Shape Rounded) (Layer MidLayer)
+EndPad
+Pad (Name "12") (Location -250, 500.3937) (HoleSize 32) (Surface False) (Rotation 0)
+PadShape (Size 51, 91) (Shape Rounded) (Layer Top)
+PadShape (Size 51, 91) (Shape Rounded) (Layer Bottom)
+PadShape (Size 51, 91) (Shape Rounded) (Layer MidLayer)
+EndPad
+Pad (Name "13") (Location -150, 500.3937) (HoleSize 32) (Surface False) (Rotation 0)
+PadShape (Size 51, 91) (Shape Rounded) (Layer Top)
+PadShape (Size 51, 91) (Shape Rounded) (Layer Bottom)
+PadShape (Size 51, 91) (Shape Rounded) (Layer MidLayer)
+EndPad
+Line (Width 6) (Start -560, 571.41729736) (End -560, -311.58270264) (Layer Mechanical15) 
+Line (Width 6) (Start -560, -311.58270264) (End 60, -311.58270264) (Layer Mechanical15) 
+Line (Width 6) (Start 60, -311.58270264) (End 60, 571.41729736) (Layer Mechanical15) 
+Line (Width 6) (Start 60, 571.41729736) (End -560, 571.41729736) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-560, 571.41729736)
+Point (-560, -311.58270264)
+Point (60, -311.58270264)
+Point (60, 571.41729736)
+EndPolygon
+Polygon (PointCount 4) (Layer Mechanical5) 
+Point (139, 686.41729736)
+Point (139, -426.58270264)
+Point (-639, -426.58270264)
+Point (-639, 686.41729736)
+EndPolygon
+Line (Width 6) (Start -519, -250.1807736) (End -519, -306.58270264) (Layer TopOverlay) 
+Line (Width 6) (Start -519, -306.58270264) (End 19, -306.58270264) (Layer TopOverlay) 
+Line (Width 6) (Start 19, -306.58270264) (End 19, -250.1807736) (Layer TopOverlay) 
+Line (Width 6) (Start 19, 566.41729736) (End -519, 566.41729736) (Layer TopOverlay) 
+Line (Width 6) (Start -519, 566.41729736) (End -519, 50.1807736) (Layer TopOverlay) 
+Line (Width 6) (Start 19, 50.1807736) (End 19, 566.41729736) (Layer TopOverlay) 
+Line (Width 1) (Start -514, -301.58270264) (End 14, -301.58270264) (Layer Mechanical13) 
+Line (Width 1) (Start 14, -301.58270264) (End 14, 561.41729736) (Layer Mechanical13) 
+Line (Width 1) (Start 14, 561.41729736) (End -514, 561.41729736) (Layer Mechanical13) 
+Line (Width 1) (Start -514, 561.41729736) (End -514, -301.58270264) (Layer Mechanical13) 
+Arc (Width 20) (Radius 15) (Location 0, 75) (StartAngle 0) (EndAngle 360) (Layer Mechanical13) 
+Arc (Width 20) (Radius 15) (Location 44, 0) (StartAngle 0) (EndAngle 360) (Layer BottomOverlay) 
+Step (Name CAS 25-NP/SP2_LEM.step)
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "CAS 25-NP") (PartCount 1) (DesPrefix "U?")
+Pin (Location 300, 0) (Rotation 180) (PinType Input) (Length 300) (Width 0) (Designator Visible "3") (Name Visible "IN") (PinSwap 0) (PartSwap 0) (PinSeq 1) (Part 1)
+Pin (Location 300, -100) (Rotation 180) (PinType Input) (Length 300) (Width 0) (Designator Visible "4") (Name Visible "IN") (PinSwap 0) (PartSwap 0) (PinSeq 2) (Part 1)
+Pin (Location 300, -200) (Rotation 180) (PinType Input) (Length 300) (Width 0) (Designator Visible "5") (Name Visible "IN") (PinSwap 0) (PartSwap 0) (PinSeq 3) (Part 1)
+Pin (Location 300, -300) (Rotation 180) (PinType Output) (Length 300) (Width 0) (Designator Visible "6") (Name Visible "OUT") (PinSwap 0) (PartSwap 0) (PinSeq 4) (Part 1)
+Pin (Location 2900, -400) (Rotation 0) (PinType Output) (Length 300) (Width 0) (Designator Visible "7") (Name Visible "OUT") (PinSwap 0) (PartSwap 0) (PinSeq 5) (Part 1)
+Pin (Location 2900, -300) (Rotation 0) (PinType Output) (Length 300) (Width 0) (Designator Visible "8") (Name Visible "OUT") (PinSwap 0) (PartSwap 0) (PinSeq 6) (Part 1)
+Pin (Location 2900, -200) (Rotation 0) (PinType Output) (Length 300) (Width 0) (Designator Visible "11") (Name Visible "VOUT") (PinSwap 0) (PartSwap 0) (PinSeq 7) (Part 1)
+Pin (Location 2900, -100) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "12") (Name Visible "GND") (PinSwap 0) (PartSwap 0) (PinSeq 8) (Part 1)
+Pin (Location 2900, 0) (Rotation 0) (PinType Power) (Length 300) (Width 0) (Designator Visible "13") (Name Visible "UC") (PinSwap 0) (PartSwap 0) (PinSeq 9) (Part 1)
+Rectangle (Width 5) (Start 300, -700) (End 2900, 300) (Part 1)
+Parameter (Name "Copyright") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Copyright (C) 2022 Ultra Librarian. All rights reserved.") (Part 1)
+Parameter (Name "Mfr_Name") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "LEM") (Part 1)
+Parameter (Name "Manufacturer_Part_Number") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "CAS 25-NP") (Part 1)
+Parameter (Name "Digi-Key_Part_Number_1") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "398-1089-5-ND") (Part 1)
+Parameter (Name "RefDes") (Location 1600, 500) (Height 82) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Parameter (Name "Type") (Location 1600, 400) (Height 82) (Rotation 0) (Justification Center) (Value "DEV") (Part 1)
+Description (Value "No Description Available") (Part 1)
+Comment (Value "CAS 25-NP") (Part 1)
+Footprint (Name "CAS 25-NP/SP2_LEM")
+EndComponent
+EndComponents

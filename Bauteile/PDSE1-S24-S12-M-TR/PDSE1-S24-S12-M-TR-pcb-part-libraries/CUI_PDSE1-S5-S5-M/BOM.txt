@@ -1,0 +1,3 @@
+3DX_CUI_Supplier: CUI, Inc
+3DX_CUI_Description: 5 Vdc, 0.2 A, 1 W, 4.5 ~ 5.5 Vdc Input Range
+3DX_CUI_Model Number: PDSE1-S5-S5-M
