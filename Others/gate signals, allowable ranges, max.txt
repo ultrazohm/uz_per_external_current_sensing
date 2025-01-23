@@ -1,0 +1,29 @@
+
+SEMINAR
+understand acquisiton time, between falling/rising edge?, check documentation on slack Eyke sent, how to change acquisition time in FPGA in IP Core
+understand Figure 21, how fpga and adc interacts, dive into datasheet and fpga documentation
+simulation results 
+effect of kickback voltage, investigate how we should design filter
+
+
+does integrating instrumentation gain amplifier
+
+
+
+
+Current Sensing PCB changes
+page92 : calibrating thru or open/short/load?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
