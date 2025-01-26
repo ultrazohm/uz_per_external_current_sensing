@@ -224,8 +224,7 @@ UniqueId=E4E57798-8A8B-4140-A15B-FAEBD34911B9
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=1
-Variation1=Designator=J1|UniqueId=\BDBTCGOC\YUYQEANK|Kind=1|AlternatePart=
+VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
