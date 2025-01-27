@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Default
 
 [Preferences]
 PrefsVaultGUID=
@@ -200,7 +201,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XHTMPVYP
 
 [Document10]
 DocumentPath=..\..\uz_a_ltc2311-16\UZohmADC.PcbLib
@@ -217,7 +218,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UJRVDYWO
 
 [ProjectVariant1]
 UniqueId=E4E57798-8A8B-4140-A15B-FAEBD34911B9
@@ -228,20 +229,20 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=AuthorParam
-Value=Simon Anzer
+Name=ProjectRevision
+Value=Rev01
 
 [Parameter2]
+Name=ProjectDate
+Value=02/2025
+
+[Parameter3]
 Name=Project
 Value=UZ_Strommessplatine
 
-[Parameter3]
-Name=ProjectDate
-Value=07/22
-
 [Parameter4]
-Name=ProjectRevision
-Value=Rev01
+Name=AuthorParam
+Value=Kaan Ilhan
 
 [Configuration1]
 Name=Sources
