@@ -51,6 +51,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\..\..\Desktop\altium_libraries\user.DbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document2]
 DocumentPath=StrommessplatinePcbLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -67,7 +84,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QYPWRBIO
 
-[Document2]
+[Document3]
 DocumentPath=StrommessplatineSchlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -84,7 +101,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OEPJEGTK
 
-[Document3]
+[Document4]
 DocumentPath=Spannungswandlung.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -101,7 +118,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YRRISQIN
 
-[Document4]
+[Document5]
 DocumentPath=TopSheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -109,7 +126,7 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=5
-DoLibraryUpdate=0
+DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -118,7 +135,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WGTGDIJV
 
-[Document5]
+[Document6]
 DocumentPath=Strommessplatine.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -135,7 +152,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NOHXLWAX
 
-[Document6]
+[Document7]
 DocumentPath=Measurement.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -143,7 +160,7 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=8
-DoLibraryUpdate=0
+DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
@@ -152,7 +169,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RTDVPERD
 
-[Document7]
+[Document8]
 DocumentPath=Strommessplatine.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -169,7 +186,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document9]
 DocumentPath=UZ_Outputjob.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -186,7 +203,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document10]
 DocumentPath=..\..\uz_a_ltc2311-16\UltraZohm_ADC.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -203,7 +220,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XHTMPVYP
 
-[Document10]
+[Document11]
 DocumentPath=..\..\uz_a_ltc2311-16\UZohmADC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -229,20 +246,20 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=ProjectRevision
-Value=Rev01
+Name=AuthorParam
+Value=Kaan Ilhan
 
 [Parameter2]
-Name=ProjectDate
-Value=02/2025
-
-[Parameter3]
 Name=Project
 Value=UZ_Strommessplatine
 
+[Parameter3]
+Name=ProjectDate
+Value=02/2025
+
 [Parameter4]
-Name=AuthorParam
-Value=Kaan Ilhan
+Name=ProjectRevision
+Value=Rev01
 
 [Configuration1]
 Name=Sources
@@ -1234,89 +1251,203 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Schlib1.SchLib
-ComponentDesignItemID0=39910-0104
-ComponentSymbolReference0=39910-0104
+ComponentLibraryIdentifier0=StrommessplatineSchlib1.SchLib
+ComponentDesignItemID0=06035A220J4T2A
+ComponentSymbolReference0=06035A220J4T2A
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=Schlib1.SchLib
-ComponentDesignItemID1=ADA4940-1ARZ_1
-ComponentSymbolReference1=ADA4940-1ARZ_1
+ComponentLibraryIdentifier1=StrommessplatineSchlib1.SchLib
+ComponentDesignItemID1=39910-0104
+ComponentSymbolReference1=39910-0104
 ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=Schlib1.SchLib
-ComponentDesignItemID2=CAS 25-NP
-ComponentSymbolReference2=CAS 25-NP
+ComponentLibraryIdentifier2=StrommessplatineSchlib1.SchLib
+ComponentDesignItemID2=615008142621
+ComponentSymbolReference2=615008142621
 ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=Schlib1.SchLib
-ComponentDesignItemID3=CR0805-FX-1000ELF
-ComponentSymbolReference3=CR0805-FX-1000ELF
+ComponentLibraryIdentifier3=StrommessplatineSchlib1.SchLib
+ComponentDesignItemID3=68001-202HLF
+ComponentSymbolReference3=68001-202HLF
 ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=Schlib1.SchLib
-ComponentDesignItemID4=CR0805-FX-1001ELF
-ComponentSymbolReference4=CR0805-FX-1001ELF
+ComponentLibraryIdentifier4=StrommessplatineSchlib1.SchLib
+ComponentDesignItemID4=ADA4940-1ARZ
+ComponentSymbolReference4=ADA4940-1ARZ
 ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=Schlib1.SchLib
-ComponentDesignItemID5=CR0805-FX-1400ELF
-ComponentSymbolReference5=CR0805-FX-1400ELF
+ComponentLibraryIdentifier5=StrommessplatineSchlib1.SchLib
+ComponentDesignItemID5=CASR15-NP
+ComponentSymbolReference5=CASR15-NP
 ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=Schlib1.SchLib
-ComponentDesignItemID6=GRT188R61H105KE13D
-ComponentSymbolReference6=GRT188R61H105KE13D
+ComponentLibraryIdentifier6=StrommessplatineSchlib1.SchLib
+ComponentDesignItemID6=REF35250QDBVR_ 2.5V ±0.05% 2.75V~6V 10mA Fixed SOT-23-6 Voltage Reference ROHS
+ComponentSymbolReference6=REF35250QDBVR_ 2.5V ±0.05% 2.75V~6V 10mA Fixed SOT-23-6 Voltage Reference ROHS
 ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=Schlib1.SchLib
-ComponentDesignItemID7=LT6654AHS6-2.5#TRPBF
-ComponentSymbolReference7=LT6654AHS6-2.5#TRPBF
+ComponentLibraryIdentifier7=StrommessplatineSchlib1.SchLib
+ComponentDesignItemID7=Resistor
+ComponentSymbolReference7=Resistor
 ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=user.DbLib/Capacitors - SMD
-ComponentDesignItemID8=06035C222JAT2A
-ComponentSymbolReference8=Capacitor
+ComponentLibraryIdentifier8=UltraZohm_ADC.SCHLIB
+ComponentDesignItemID8=865080142007
+ComponentSymbolReference8=865080142007
 ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=user.DbLib/Capacitors - SMD
-ComponentDesignItemID9=C0603C220J5RACTU
-ComponentSymbolReference9=Capacitor
+ComponentLibraryIdentifier9=UltraZohm_ADC.SCHLIB
+ComponentDesignItemID9=B82464G4154M
+ComponentSymbolReference9=B82464G4154M
 ComponentUpdate9=1
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=user.DbLib/Capacitors - SMD
-ComponentDesignItemID10=C0603X104K5RAC7411
-ComponentSymbolReference10=Capacitor
+ComponentLibraryIdentifier10=UltraZohm_ADC.SCHLIB
+ComponentDesignItemID10=BYS12-90
+ComponentSymbolReference10=BYS12-90
 ComponentUpdate10=1
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
-ComponentLibraryIdentifier11=user.DbLib/Interface - Ethernet
-ComponentDesignItemID11=RJHSE538002
-ComponentSymbolReference11=RJHSE-5380-02
+ComponentLibraryIdentifier11=UltraZohm_ADC.SCHLIB
+ComponentDesignItemID11=C_1206
+ComponentSymbolReference11=C_1206
 ComponentUpdate11=1
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
-ComponentLibraryIdentifier12=user.DbLib/Power Supply - Module
-ComponentDesignItemID12=173010578
-ComponentSymbolReference12=173010578
+ComponentLibraryIdentifier12=UltraZohm_ADC.SCHLIB
+ComponentDesignItemID12=Cap_0603
+ComponentSymbolReference12=Cap_0603
 ComponentUpdate12=1
 ComponentIsDeviceSheet12=0
 ComponentLibIdentifierKind13=Library Name And Type
-ComponentLibraryIdentifier13=user.DbLib/Resistors - SMD
-ComponentDesignItemID13=RN73H1JTTD49R9F100
-ComponentSymbolReference13=Resistor
+ComponentLibraryIdentifier13=UltraZohm_ADC.SCHLIB
+ComponentDesignItemID13=Capacitor
+ComponentSymbolReference13=Capacitor
 ComponentUpdate13=1
 ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=UltraZohm_ADC.SCHLIB
+ComponentDesignItemID14=LED_Blue_0603
+ComponentSymbolReference14=LED_Blue_0603
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name And Type
+ComponentLibraryIdentifier15=UltraZohm_ADC.SCHLIB
+ComponentDesignItemID15=LED_Green_0603
+ComponentSymbolReference15=LED_Green_0603
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name And Type
+ComponentLibraryIdentifier16=UltraZohm_ADC.SCHLIB
+ComponentDesignItemID16=LED_Red_0603
+ComponentSymbolReference16=LED_Red_0603
+ComponentUpdate16=1
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name And Type
+ComponentLibraryIdentifier17=UltraZohm_ADC.SCHLIB
+ComponentDesignItemID17=LM5007
+ComponentSymbolReference17=LM5007
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name And Type
+ComponentLibraryIdentifier18=UltraZohm_ADC.SCHLIB
+ComponentDesignItemID18=R_0603
+ComponentSymbolReference18=R_0603
+ComponentUpdate18=1
+ComponentIsDeviceSheet18=0
+ComponentLibIdentifierKind19=Library Name And Type
+ComponentLibraryIdentifier19=UltraZohm_ADC.SCHLIB
+ComponentDesignItemID19=TPS7A4901DGN
+ComponentSymbolReference19=TPS7A4901DGN
+ComponentUpdate19=1
+ComponentIsDeviceSheet19=0
+ComponentLibIdentifierKind20=Library Name And Type
+ComponentLibraryIdentifier20=UltraZohm_ADC.SCHLIB
+ComponentDesignItemID20=WE-CBF, 742792040
+ComponentSymbolReference20=WE-CBF, 742792040
+ComponentUpdate20=1
+ComponentIsDeviceSheet20=0
+ComponentLibIdentifierKind21=Library Name And Type
+ComponentLibraryIdentifier21=UltraZOhm_CarrierBoard.SchLib
+ComponentDesignItemID21=TP_1mm
+ComponentSymbolReference21=TP_1mm
+ComponentUpdate21=1
+ComponentIsDeviceSheet21=0
+ComponentLibIdentifierKind22=Library Name And Type
+ComponentLibraryIdentifier22=user.DbLib/Capacitors - SMD
+ComponentDesignItemID22=06035C222JAT2A
+ComponentSymbolReference22=Capacitor
+ComponentUpdate22=1
+ComponentIsDeviceSheet22=0
+ComponentLibIdentifierKind23=Library Name And Type
+ComponentLibraryIdentifier23=user.DbLib/Capacitors - SMD
+ComponentDesignItemID23=885012006057
+ComponentSymbolReference23=Capacitor
+ComponentUpdate23=1
+ComponentIsDeviceSheet23=0
+ComponentLibIdentifierKind24=Library Name And Type
+ComponentLibraryIdentifier24=user.DbLib/Capacitors - SMD
+ComponentDesignItemID24=C0603X104K5RAC7411
+ComponentSymbolReference24=Capacitor
+ComponentUpdate24=1
+ComponentIsDeviceSheet24=0
+ComponentLibIdentifierKind25=Library Name And Type
+ComponentLibraryIdentifier25=user.DbLib/Capacitors - SMD
+ComponentDesignItemID25=JMK107BJ105MA-T
+ComponentSymbolReference25=Capacitor
+ComponentUpdate25=1
+ComponentIsDeviceSheet25=0
+ComponentLibIdentifierKind26=Library Name And Type
+ComponentLibraryIdentifier26=user.DbLib/Misc
+ComponentDesignItemID26=Design Information
+ComponentSymbolReference26=Design_info
+ComponentUpdate26=1
+ComponentIsDeviceSheet26=0
+ComponentLibIdentifierKind27=Library Name And Type
+ComponentLibraryIdentifier27=user.DbLib/Misc
+ComponentDesignItemID27=Logo small
+ComponentSymbolReference27=UZ Logo
+ComponentUpdate27=1
+ComponentIsDeviceSheet27=0
+ComponentLibIdentifierKind28=Library Name And Type
+ComponentLibraryIdentifier28=user.DbLib/Misc
+ComponentDesignItemID28=Mounting Hole
+ComponentSymbolReference28=Mounting Hole
+ComponentUpdate28=1
+ComponentIsDeviceSheet28=0
+ComponentLibIdentifierKind29=Library Name And Type
+ComponentLibraryIdentifier29=user.DbLib/Misc
+ComponentDesignItemID29=Serial Number
+ComponentSymbolReference29=SerialNumber
+ComponentUpdate29=1
+ComponentIsDeviceSheet29=0
+ComponentLibIdentifierKind30=Library Name And Type
+ComponentLibraryIdentifier30=user.DbLib/Resistors - SMD
+ComponentDesignItemID30=ERA-3VEB2001V
+ComponentSymbolReference30=Resistor
+ComponentUpdate30=1
+ComponentIsDeviceSheet30=0
+ComponentLibIdentifierKind31=Library Name And Type
+ComponentLibraryIdentifier31=user.DbLib/Resistors - SMD
+ComponentDesignItemID31=PCF-W0603LF-03-1001-B-P-LT
+ComponentSymbolReference31=Resistor
+ComponentUpdate31=1
+ComponentIsDeviceSheet31=0
+ComponentLibIdentifierKind32=Library Name And Type
+ComponentLibraryIdentifier32=user.DbLib/Resistors - SMD
+ComponentDesignItemID32=RN73H1JTTD49R9F100
+ComponentSymbolReference32=Resistor
+ComponentUpdate32=1
+ComponentIsDeviceSheet32=0
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
