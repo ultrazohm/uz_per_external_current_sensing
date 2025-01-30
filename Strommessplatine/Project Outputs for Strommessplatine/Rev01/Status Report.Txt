@@ -1,9 +1,14 @@
-Output: Bill of Materials
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:15:08 On 30/01/2025
+
+Output: BOM_JLC
 Type  : BOM
 From  : Variant [Default] of Project [Strommessplatine.PrjPcb]
+   Generated File[BOM_Strommessplatine_Default_Rev01.xlsx]
 
 
-Files Generated   : 0
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 13:49:06 On 28/01/2025
+Finished Output Generation At 11:15:11 On 30/01/2025
