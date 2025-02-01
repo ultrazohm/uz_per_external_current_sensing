@@ -242,7 +242,13 @@ UniqueId=E4E57798-8A8B-4140-A15B-FAEBD34911B9
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=6
+Variation1=Designator=C18A|UniqueId=\OWMMCCPN\LJWSCGGK|Kind=1|AlternatePart=
+Variation2=Designator=C16A|UniqueId=\OWMMCCPN\XTAKWDMT|Kind=1|AlternatePart=
+Variation3=Designator=C20A|UniqueId=\OWMMCCPN\VWRKKPYI|Kind=1|AlternatePart=
+Variation4=Designator=C16D|UniqueId=\EYVCGQCA\XTAKWDMT|Kind=1|AlternatePart=
+Variation5=Designator=C16C|UniqueId=\DEGOVRWE\XTAKWDMT|Kind=1|AlternatePart=
+Variation6=Designator=C16B|UniqueId=\KQLFLMXL\XTAKWDMT|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
@@ -259,7 +265,7 @@ Value=02/2025
 
 [Parameter4]
 Name=ProjectRevision
-Value=Rev01
+Value=Rev02
 
 [Configuration1]
 Name=Sources
