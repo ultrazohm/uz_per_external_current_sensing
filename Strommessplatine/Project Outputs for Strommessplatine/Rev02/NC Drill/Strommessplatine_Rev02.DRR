@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Strommessplatine.PcbDoc   04/02/2025  17:00:17
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to 2V5_OCM
+ASCII RoundHoles File : Strommessplatine_Rev02.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.201mm)                                            Round             5         PTH        0.13inch (3.30mm)
+T2      12mil (0.3mm)                                             Round             144       PTH        24.78inch (629.30mm)
+T3      20mil (0.5mm)                                             Round             6         PTH        5.03inch (127.83mm)
+T4      32mil (0.813mm)                                           Round             16        PTH        3.99inch (101.44mm)
+T5      35mil (0.899mm)                                           Round             8         PTH        0.71inch (18.08mm)
+T6      39mil (1.001mm)                                           Round             2         PTH        0.10inch (2.54mm)
+T7      51mil (1.295mm)                                           Round             24        PTH        4.78inch (121.40mm)
+T8      63mil (1.6mm)                                             Round             2         PTH        0.61inch (15.50mm)
+T9      79mil (1.999mm)                                           Round             16        PTH        6.29inch (159.89mm)
+T10     128mil (3.251mm)                                          Round             2         NPTH       0.45inch (11.43mm)
+T11     134mil (3.401mm)        +/-3mil (0.076mm)                 Round             4         NPTH       10.89inch (276.50mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              229
+
+Total Processing Time (hh:mm:ss) : 00:00:00

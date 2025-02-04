@@ -1,14 +1,10 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 17:50:21 On 03/02/2025
-
 Output: BOM_JLC
 Type  : BOM
 From  : Variant [Default] of Project [Strommessplatine.PrjPcb]
-   Generated File[BOM_Strommessplatine_Default_Rev02.xlsx]
+   Generated File[Strommessplatine_Rev02.xlsx]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 17:50:24 On 03/02/2025
+Finished Output Generation At 17:00:21 On 04/02/2025
