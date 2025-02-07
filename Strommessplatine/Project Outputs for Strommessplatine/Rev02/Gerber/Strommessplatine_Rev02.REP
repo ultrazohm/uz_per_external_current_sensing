@@ -2,43 +2,6 @@
 FileName = Strommessplatine_Rev02.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 1
-      File : Strommessplatine_Rev02.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Strommessplatine_Rev02.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D15
-    D96
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : Strommessplatine_Rev02.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : 2V5_OCM
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
 Generating : Bottom Solder
       File : Strommessplatine_Rev02.GBS
 
@@ -77,8 +40,8 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D35
-    D45
+    D28
+    D36
     D46
     D47
     D48
@@ -176,33 +139,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : 2V5_OCM
-      File : Strommessplatine_Rev02.GBL
-
-    Adding Layer      : 2V5_OCM
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D73
-    D80
-    D81
-    D82
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-*************************************************************
-
-*************************************************************
 Generating : VCC+
       File : Strommessplatine_Rev02.G2
 
@@ -212,13 +148,13 @@ Generating : VCC+
 
 
 Used DCodes :
-    D73
-    D80
+    D67
+    D81
+    D86
     D87
-    D89
-    D91
-    D92
-    D93
+    D88
+    D90
+    D94
 *************************************************************
 
 *************************************************************
@@ -231,16 +167,16 @@ Generating : GND
 
 
 Used DCodes :
-    D73
+    D67
     D86
     D87
-    D89
+    D88
     D90
     D91
-    D92
     D93
     D94
     D95
+    D96
 *************************************************************
 
 *************************************************************
@@ -253,9 +189,8 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D12
     D17
-    D20
+    D18
     D24
     D25
     D26
@@ -278,7 +213,7 @@ Used DCodes :
     D43
     D44
     D45
-    D73
+    D67
     D80
     D81
     D82
@@ -295,5 +230,70 @@ Used DCodes :
     D93
     D94
     D95
+    D96
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Strommessplatine_Rev02.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Strommessplatine_Rev02.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D15
+    D97
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Strommessplatine_Rev02.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : 2V5_OCM
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : 2V5_OCM
+      File : Strommessplatine_Rev02.GBL
+
+    Adding Layer      : 2V5_OCM
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D67
+    D81
+    D82
+    D83
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
 *************************************************************
 

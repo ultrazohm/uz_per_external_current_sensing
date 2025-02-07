@@ -1,10 +1,14 @@
-Output: BOM_JLC
-Type  : BOM
-From  : Variant [Default] of Project [Strommessplatine.PrjPcb]
-   Generated File[Strommessplatine_Rev02.xlsx]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 17:50:31 On 07.02.2025
+
+Output: Pick and Place Files
+Type  : Pick Place
+From  : Variant [Default] of PCB Document [Strommessplatine.PcbDoc]
+   Generated File[Pick_and_Place_Strommessplatine_Default_Rev02.csv]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 17:00:21 On 04/02/2025
+Finished Output Generation At 17:50:32 On 07.02.2025

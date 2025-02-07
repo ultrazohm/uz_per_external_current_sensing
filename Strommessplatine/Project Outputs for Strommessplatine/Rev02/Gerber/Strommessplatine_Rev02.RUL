@@ -1,6 +1,6 @@
-DRC Rules Export File for PCB: C:\Users\ilhan\Documents\uz_per_external_current_sensing\Strommessplatine\Strommessplatine.PcbDoc
+DRC Rules Export File for PCB: C:\Users\ga92wum\git\UltraZohm\PCB\uz_per_external_current_sensing\Strommessplatine\Strommessplatine.PcbDoc
 RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=10.00
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
-RuleKind=Clearance|RuleName=Clearance_Power|Scope=Board|Minimum=78.74
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.30
+RuleKind=Clearance|RuleName=Clearance_Power|Scope=Board|Minimum=98.43
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
