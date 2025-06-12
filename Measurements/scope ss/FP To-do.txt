@@ -1,0 +1,41 @@
+
+
+14th screenshots with 0.5 Arms / 500 Hz
+15th screenshots with 2 Ap / 500 Hz
+16th screenshots with 4 Ap / 500 Hz
+
+----C18 soldering----
+
+17th screenshots with 0.5 Arms / 500 Hz, with C18 5.6 nF populated on CASR6,  on ethernet (after Cdiff filter)
+25th screenshots with 0.5 Arms / 500 Hz, with C18 5.6 nF populated on CASR6,  after the sensor
+
+24th screenshots with 1 Arms / 500 Hz, with C18 5.6 nF populated on CASR6, on ethernet (after Cdiff filter)
+26th screenshots with 1 Arms / 500 Hz, with C18 5.6 nF populated on CASR6, after the sensor
+32nd screenshots with 1 Arms / 500 Hz, with C18 5.6 nF populated on CASR6, on ethernet (after Cdiff filter)
+
+22nd screenshots with 1 Arms / 500 Hz, with C18 5.6 nF populated on S15, after the sensor
+23rd screenshots with 1 Arms / 500 Hz, with C18 5.6 nF populated on S15, on ethernet (after Cdiff filter)y
+31st screenshots with 1 Arms / 500 Hz, with C18 5.6 nF populated on S15, on ethernet (after Cdiff filter)
+
+21th screenshots with 1 Arms / 500 Hz, on CASR25
+20th screenshots with 3 Arms / 500 Hz, on CASR25
+
+
+27th screenshots with 1 Arms / 500 Hz, black s25, red CASR25 after the sensor
+28th screenshots with 5 Arms / 500 Hz, black s25, red CASR25 after the sensor
+
+29th screenshots with 1 Arms / 500 Hz, black s25 single ended after sensor, red CASR25 after the sensor, turquoise s25 differential probe on the ethernet (without cdiff filter)
+30th screenshots with 1 Arms / 500 Hz, turquoise s25 differential probe on the ethernet (WITH cdiff filter)
+
+
+33rd screenshots with no current, with C18 5.6 nF populated on CASR6, on ethernet (after Cdiff filter)
+34th screenshots with no current, with C18 5.6 nF populated on S25, on ethernet (after Cdiff filter)
+35th screenshots with no current, with C18 5.6 nF populated on S15, on ethernet (after Cdiff filter)
+36th screenshots with 1 Arms / 500 Hz, with C18 5.6 nF populated on S15, on ethernet (after Cdiff filter)
+
+37th screenshots with 1 Arms / 500 Hz, black s25 single ended after sensor, red CASR25 single ended after the sensor, turquoise s25 differential probe on the ethernet (with cdiff filter)
+38th screenshots with 1 Arms / 500 Hz, green STB6 single ended after sensor, red CASR25 single ended after the sensor, pink CASR6 single ended after the sensor
+
+39th screenshots with 1 Arms / 500 Hz, black s25 single ended after sensor, blue CASR25 single ended after the sensor, red s25 differential probe on the ethernet (with cdiff filter)
+40th screenshots with 0.1 Arms / 500 Hz, black s25 single ended after sensor, blue CASR25 single ended after the sensor, red s25 differential probe on the ethernet (with cdiff filter)
+
