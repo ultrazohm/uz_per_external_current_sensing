@@ -242,37 +242,43 @@ UniqueId=E4E57798-8A8B-4140-A15B-FAEBD34911B9
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=13
-Variation1=Designator=C18A|UniqueId=\OWMMCCPN\LJWSCGGK|Kind=1|AlternatePart=
-Variation2=Designator=C16A|UniqueId=\OWMMCCPN\XTAKWDMT|Kind=1|AlternatePart=
-Variation3=Designator=C20A|UniqueId=\OWMMCCPN\VWRKKPYI|Kind=1|AlternatePart=
-Variation4=Designator=C16D|UniqueId=\EYVCGQCA\XTAKWDMT|Kind=1|AlternatePart=
-Variation5=Designator=C16C|UniqueId=\DEGOVRWE\XTAKWDMT|Kind=1|AlternatePart=
-Variation6=Designator=C16B|UniqueId=\KQLFLMXL\XTAKWDMT|Kind=1|AlternatePart=
-Variation7=Designator=C18B|UniqueId=\KQLFLMXL\LJWSCGGK|Kind=1|AlternatePart=
-Variation8=Designator=C20B|UniqueId=\KQLFLMXL\VWRKKPYI|Kind=1|AlternatePart=
-Variation9=Designator=C18C|UniqueId=\DEGOVRWE\LJWSCGGK|Kind=1|AlternatePart=
-Variation10=Designator=C20C|UniqueId=\DEGOVRWE\VWRKKPYI|Kind=1|AlternatePart=
-Variation11=Designator=C18D|UniqueId=\EYVCGQCA\LJWSCGGK|Kind=1|AlternatePart=
-Variation12=Designator=C20D|UniqueId=\EYVCGQCA\VWRKKPYI|Kind=1|AlternatePart=
+VariationCount=15
+Variation1=Designator=C18A|UniqueId=\OWMMCCPN\LJWSCGGK|Kind=0|AlternatePart=
+Variation2=Designator=C16A|UniqueId=\OWMMCCPN\XTAKWDMT|Kind=0|AlternatePart=
+Variation3=Designator=C20A|UniqueId=\OWMMCCPN\VWRKKPYI|Kind=0|AlternatePart=
+Variation4=Designator=C16D|UniqueId=\EYVCGQCA\XTAKWDMT|Kind=0|AlternatePart=
+Variation5=Designator=C16C|UniqueId=\DEGOVRWE\XTAKWDMT|Kind=0|AlternatePart=
+Variation6=Designator=C16B|UniqueId=\KQLFLMXL\XTAKWDMT|Kind=0|AlternatePart=
+Variation7=Designator=C18B|UniqueId=\KQLFLMXL\LJWSCGGK|Kind=0|AlternatePart=
+Variation8=Designator=C20B|UniqueId=\KQLFLMXL\VWRKKPYI|Kind=0|AlternatePart=
+Variation9=Designator=C18C|UniqueId=\DEGOVRWE\LJWSCGGK|Kind=0|AlternatePart=
+Variation10=Designator=C20C|UniqueId=\DEGOVRWE\VWRKKPYI|Kind=0|AlternatePart=
+Variation11=Designator=C18D|UniqueId=\EYVCGQCA\LJWSCGGK|Kind=0|AlternatePart=
+Variation12=Designator=C20D|UniqueId=\EYVCGQCA\VWRKKPYI|Kind=0|AlternatePart=
 Variation13=Designator=R36|UniqueId=\BDBTCGOC\UXUECGZF|Kind=1|AlternatePart=
+Variation14=Designator=R?|UniqueId=\BDBTCGOC\LBJIPOWJ|Kind=1|AlternatePart=
+Variation15=Designator=R?|UniqueId=\BDBTCGOC\ZZAELXLS|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=AuthorParam
-Value=Kaan Ilhan
+Name=
+Value=
 
 [Parameter2]
-Name=Project
-Value=UZ_Strommessplatine
+Name=ProjectRevision
+Value=Rev03
 
 [Parameter3]
 Name=ProjectDate
-Value=02/2025
+Value=06/2025
 
 [Parameter4]
-Name=ProjectRevision
-Value=Rev02
+Name=Project
+Value=UZ_HV_Strommessplatine
+
+[Parameter5]
+Name=AuthorParam
+Value=Kaan Ilhan
 
 [Configuration1]
 Name=Sources
