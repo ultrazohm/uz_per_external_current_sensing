@@ -242,10 +242,15 @@ UniqueId=E4E57798-8A8B-4140-A15B-FAEBD34911B9
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=3
+VariationCount=8
 Variation1=Designator=R36|UniqueId=\BDBTCGOC\UXUECGZF|Kind=1|AlternatePart=
 Variation2=Designator=R?|UniqueId=\BDBTCGOC\LBJIPOWJ|Kind=1|AlternatePart=
-Variation3=Designator=R?|UniqueId=\BDBTCGOC\ZZAELXLS|Kind=0|AlternatePart=
+Variation3=Designator=R?|UniqueId=\BDBTCGOC\ZZAELXLS|Kind=1|AlternatePart=
+Variation4=Designator=R36|UniqueId=\BDBTCGOC\NGDUBJSF|Kind=1|AlternatePart=
+Variation5=Designator=R37|UniqueId=\BDBTCGOC\BNRFFTET|Kind=1|AlternatePart=
+Variation6=Designator=R33|UniqueId=\BDBTCGOC\TSWSVFIK|Kind=1|AlternatePart=
+Variation7=Designator=R34|UniqueId=\BDBTCGOC\BQOETUZZ|Kind=1|AlternatePart=
+Variation8=Designator=R4|UniqueId=\BDBTCGOC\RXRTXKOV|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
