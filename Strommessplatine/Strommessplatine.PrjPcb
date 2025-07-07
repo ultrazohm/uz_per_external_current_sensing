@@ -253,20 +253,20 @@ Variation7=Designator=R4|UniqueId=\BDBTCGOC\RXRTXKOV|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=AuthorParam
-Value=Kaan Ilhan
+Name=ProjectRevision
+Value=Rev03
 
 [Parameter2]
+Name=ProjectDate
+Value=07/2025
+
+[Parameter3]
 Name=Project
 Value=UZ_HV_Strommessplatine
 
-[Parameter3]
-Name=ProjectDate
-Value=06/2025
-
 [Parameter4]
-Name=ProjectRevision
-Value=Rev03
+Name=AuthorParam
+Value=Kaan Ilhan
 
 [Configuration1]
 Name=Sources
