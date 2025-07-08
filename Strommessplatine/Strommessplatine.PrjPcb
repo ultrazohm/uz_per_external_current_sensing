@@ -244,12 +244,12 @@ AllowFabrication=0
 ParameterCount=0
 VariationCount=7
 Variation1=Designator=R?|UniqueId=\BDBTCGOC\LBJIPOWJ|Kind=1|AlternatePart=
-Variation2=Designator=R?|UniqueId=\BDBTCGOC\ZZAELXLS|Kind=0|AlternatePart=
-Variation3=Designator=R36|UniqueId=\BDBTCGOC\NGDUBJSF|Kind=1|AlternatePart=
-Variation4=Designator=R37|UniqueId=\BDBTCGOC\BNRFFTET|Kind=1|AlternatePart=
-Variation5=Designator=R33|UniqueId=\BDBTCGOC\TSWSVFIK|Kind=1|AlternatePart=
-Variation6=Designator=R34|UniqueId=\BDBTCGOC\BQOETUZZ|Kind=1|AlternatePart=
-Variation7=Designator=R4|UniqueId=\BDBTCGOC\RXRTXKOV|Kind=1|AlternatePart=
+Variation2=Designator=R36|UniqueId=\BDBTCGOC\NGDUBJSF|Kind=1|AlternatePart=
+Variation3=Designator=R37|UniqueId=\BDBTCGOC\BNRFFTET|Kind=1|AlternatePart=
+Variation4=Designator=R33|UniqueId=\BDBTCGOC\TSWSVFIK|Kind=1|AlternatePart=
+Variation5=Designator=R34|UniqueId=\BDBTCGOC\BQOETUZZ|Kind=1|AlternatePart=
+Variation6=Designator=R4|UniqueId=\BDBTCGOC\RXRTXKOV|Kind=1|AlternatePart=
+Variation7=Designator=R2|UniqueId=\BDBTCGOC\RIJFEXAN|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
@@ -391,6 +391,16 @@ OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
+OutputType22=SIMetrixNetlist
+OutputName22=SIMetrix
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=SIMPLISNetlist
+OutputName23=SIMPLIS
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -402,6 +412,16 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -762,6 +782,36 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=Ansoft Neutral
+OutputName13=Ansoft Neutral (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=HyperLynx
+OutputName14=HyperLynx (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=MathWorks
+OutputName15=MathWorks (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Orcad v7 Capture Design
+OutputName16=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=P-CAD ASCII
+OutputName17=P-CAD ASCII (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=P-CAD V16 Schematic Design
+OutputName18=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
