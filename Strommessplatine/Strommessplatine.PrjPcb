@@ -244,7 +244,7 @@ AllowFabrication=0
 ParameterCount=0
 VariationCount=7
 Variation1=Designator=R?|UniqueId=\BDBTCGOC\LBJIPOWJ|Kind=1|AlternatePart=
-Variation2=Designator=R?|UniqueId=\BDBTCGOC\ZZAELXLS|Kind=1|AlternatePart=
+Variation2=Designator=R?|UniqueId=\BDBTCGOC\ZZAELXLS|Kind=0|AlternatePart=
 Variation3=Designator=R36|UniqueId=\BDBTCGOC\NGDUBJSF|Kind=1|AlternatePart=
 Variation4=Designator=R37|UniqueId=\BDBTCGOC\BNRFFTET|Kind=1|AlternatePart=
 Variation5=Designator=R33|UniqueId=\BDBTCGOC\TSWSVFIK|Kind=1|AlternatePart=
@@ -253,20 +253,20 @@ Variation7=Designator=R4|UniqueId=\BDBTCGOC\RXRTXKOV|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=ProjectRevision
-Value=Rev03
+Name=AuthorParam
+Value=Kaan Ilhan
 
 [Parameter2]
-Name=ProjectDate
-Value=07/2025
-
-[Parameter3]
 Name=Project
 Value=UZ_HV_Strommessplatine
 
+[Parameter3]
+Name=ProjectDate
+Value=07/2025
+
 [Parameter4]
-Name=AuthorParam
-Value=Kaan Ilhan
+Name=ProjectRevision
+Value=Rev03
 
 [Configuration1]
 Name=Sources
