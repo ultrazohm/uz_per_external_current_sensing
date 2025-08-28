@@ -1,0 +1,22 @@
+Zip Folder Name
+UZ_CMB_Rev03_8July2025
+
+PCB Details
+1.6mm
+FR4 TG155
+ENIG
+2oz outer
+2oz inner
+Press-Fit Hole YES
+
+PCB Remarks
+
+Press-Fit Holes: MP1 and MP2 for all Channels A,B,C,D = in total 8 components
+
+
+
+PCBA Details
+
+Packaging ESD + CARDBOARD
+Solder Paste HIGH TEMP
+Board Cleaning YES
